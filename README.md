@@ -1,6 +1,10 @@
-![header](https://github.com/zelenkov4462/zelenkov4462/blob/main/assets/header.png)
+![zelenkov4462 GitHub Banner](https://github.com/zelenkov4462/zelenkov4462/blob/main/assets/header.png)
 
-## Hi 👋!
+<div align="center">
+
+### Hi! :wave:
+
+<br/>
 I'm Nikita and I specialize in front-end development. I like to being part of cool interfaces, and amazing web apps.
 
 ## Contacts
@@ -52,5 +56,12 @@ I'm Nikita and I specialize in front-end development. I like to being part of co
 
 </details>
 
+---
+
+<br>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zelenkov4462&hide=issues&count_private=true&show_icons=true&theme=dark)](https://github.com/zelenkov4462)
 
+![](https://komarev.com/ghpvc/?username=zelenkov4462&style=for-the-badge&color=blue)
+
+</div>
