@@ -7,7 +7,7 @@
 <br/>
 I`m Nikita and I specialize in front-end development.
 <br>
-I like create something useful for people and being part of amazing world IT
+I like create something useful for people and being part of amazing world IT.
 
 ## Contacts
 
