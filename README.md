@@ -1,4 +1,4 @@
-![zelenkov4462 GitHub Banner](https://github.com/zelenkov4462/zelenkov4462/blob/main/assets/header.png)
+![zelenkov4462 GitHub Banner](https://github.com/zelenkov4462/zelenkov4462/blob/main/assets/new.png)
 
 <div align="center">
 
