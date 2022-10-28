@@ -62,6 +62,6 @@ I'm Nikita and I specialize in front-end development. I like to being part of co
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zelenkov4462&hide=issues&count_private=true&show_icons=true&theme=dark)](https://github.com/zelenkov4462)
 
-![](https://komarev.com/ghpvc/?username=zelenkov4462&style=for-the-badge&color=blue)
+[//]: # (![]&#40;https://komarev.com/ghpvc/?username=zelenkov4462&style=for-the-badge&color=blue&#41;)
 
 </div>
