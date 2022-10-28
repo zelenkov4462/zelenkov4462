@@ -5,7 +5,9 @@
 ### Hi! :wave:
 
 <br/>
-I'm Nikita and I specialize in front-end development. I like to being part of cool interfaces, and amazing web apps.
+I`m Nikita and I specialize in front-end development.
+<br>
+I like create something useful for people and being part of amazing world IT
 
 ## Contacts
 
