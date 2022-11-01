@@ -29,6 +29,7 @@ I like create something useful for people and being part of amazing world IT.
 ![CSS3](https://img.shields.io/badge/-CSS3-0c0c0c?style=for-the-badge&logo=css3&logoColor=64A0E6) 
 ![SASS](https://img.shields.io/badge/-sass-0c0c0c?style=for-the-badge&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-0c0c0c?style=for-the-badge&logo=bootstrap) 
+![Ant design](https://img.shields.io/badge/Ant Design-0c0c0c?style=for-the-badge&logo=antdesign)
 ![Jest](https://img.shields.io/badge/-jest-0c0c0c?style=for-the-badge&logo=jest&logoColor=FD7081)
 ![NPM](https://img.shields.io/badge/-npm-0c0c0c?style=for-the-badge&logo=npm) 
 ![GitHub](https://img.shields.io/badge/-github-0c0c0c?style=for-the-badge&logo=github) 
